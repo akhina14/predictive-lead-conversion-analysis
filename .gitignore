@@ -1,20 +1,12 @@
 # Virtual environment
 venv/
 
-# Python cache
+# Python
 __pycache__/
 *.pyc
 
 # Jupyter
 .ipynb_checkpoints/
 
-# Data files (not uploaded)
+# Dataset
 data/
-cleaned_dataset.csv
-
-# Saved models
-models/
-*.pkl
-
-# Environment variables
-.env
